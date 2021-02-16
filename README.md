@@ -1,6 +1,7 @@
 # backend-usuarios-crudsimple
 
 ### BDD MySQL (configuraciones locales)
+Configuraciones en `database/connection.ts`
 
 
 
